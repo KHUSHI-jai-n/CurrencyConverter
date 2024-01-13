@@ -1,2 +1,2 @@
 # CurrencyConverter
-An api based currency converter web application.
+An API based currency converter web application.
